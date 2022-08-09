@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Desktop\\React\\react-frontend-practice"
+		},
+		{
+			"path": "..\\..\\..\\..\\Desktop\\React\\hello-world"
+		},
+		{
+			"path": "..\\..\\..\\..\\Desktop\\hung"
+		},
+		{
+			"path": "..\\..\\..\\..\\Desktop\\HTML_CSS"
+		},
+		{
+			"path": "..\\..\\..\\..\\Desktop\\HTML_CSS\\Login Page"
+		},
+		{
+			"path": "..\\..\\..\\schoolmanagement-master"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML_CSS"
+	}
+}

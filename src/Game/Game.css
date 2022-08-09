@@ -1,0 +1,53 @@
+.page-container{
+    background: url();
+}
+.page-container h3{
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin: 30px 0 30px 0;
+}
+.page-container .display-score {
+    margin-top: 0px;
+    margin-bottom: 2%;
+}
+.page-container .display-score span{
+    padding: 30px;
+
+    font-size: 30px;
+    font-weight: bold;
+}
+.page-container .display-score div{
+    padding: 30px;
+
+    font-size: 30px;
+    font-weight: bold;
+}
+.page-container .buttons-container{
+    margin-bottom: 30%;
+}
+.page-container .buttons-container button{
+    flex: 1;
+    padding: 16px 8px;
+    margin: 1px;
+
+    border: 0px;
+    border-radius: 3%;
+   
+    color: #fff;
+    font-size: 20px;
+
+    cursor: pointer;
+
+}
+  button:first-child {
+    background: rgb(251, 86, 86);
+  }
+  button {
+    background: rgb(51, 57, 59);
+  }
+  button:last-child {
+    background: rgb(0, 0, 0);
+  }
